@@ -6,7 +6,6 @@
 // Description : Ansi-style.
 //============================================================================
 
-/* SECOND TEST COMMIT AMBIVALENCE */
 
 #include <iostream>
 using namespace std;
@@ -15,3 +14,11 @@ int main() {
 	cout << "Hello World!" << endl;
 	return 0;
 }
+
+/*
+ *
+ *
+ * Future Prog By Alex.
+ *
+ *
+ */
