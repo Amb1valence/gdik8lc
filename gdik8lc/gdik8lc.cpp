@@ -6,7 +6,7 @@
 // Description : Ansi-style.
 //============================================================================
 
-//For First Commit.
+/* SECOND TEST COMMIT AMBIVALENCE */
 
 #include <iostream>
 using namespace std;
