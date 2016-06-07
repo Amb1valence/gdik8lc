@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : gdik8lc.cpp
-// Author      : Mikhail Kiselyov, Alexander Moroz.
+// Author      : Mikhail Kiselyov, Alexandr Moroz.
 // Version     : 1.0.
 // Copyright   : 07.06.2016.
 // Description : Ansi-style.
@@ -18,7 +18,7 @@ int main() {
 /*
  *
  *
- * Future Prog By Alex.
+ * Future Prog By Amb1. 0-0
  *
  *
  */
